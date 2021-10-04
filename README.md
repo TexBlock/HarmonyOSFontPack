@@ -13,10 +13,14 @@ ZH-CN / EN
 |  HarmonyOSFontPack-Bold   |  HarmonyOS Sans SC Bold   |
 |  HarmonyOSFontPack-Black  |  HarmonyOS Sans SC Black  |
 
+## 使用方法
+
+在游戏里的设置 > 语言... > 强制使用Unicode字体：关 (Force Unicode Font: OFF)
+
 ## 字体包选择
 
 建议选择 HarmonyOSFontPack-Bold或HarmonyOSFontPack-Black 
 
 ## 已知BUG
 
-帕秋莉手册的内容会显示方块
+详见：[issues#I4CPVM](https://gitee.com/TexTrue/HarmonyOSFontPack/issues/I4CPVM)
