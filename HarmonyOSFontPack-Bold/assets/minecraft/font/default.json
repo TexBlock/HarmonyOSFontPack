@@ -2,7 +2,7 @@
      "providers": [
          {
              "type": "ttf",
-             "file": "minecraft:harmonyos_blod.ttf",
+             "file": "minecraft:harmonyos_bold.ttf",
  			"shift": [0, 0],
  			"size": 11.0,
  			"oversample": 4.0
