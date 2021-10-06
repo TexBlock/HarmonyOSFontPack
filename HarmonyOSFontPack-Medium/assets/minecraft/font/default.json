@@ -5,7 +5,8 @@
              "file": "minecraft:harmonyos_medium.ttf",
  			"shift": [0, 0],
  			"size": 11.0,
- 			"oversample": 8.0
+ 			"oversample": 8.0,
+             "skip":"（）"
          }
  	]
  }

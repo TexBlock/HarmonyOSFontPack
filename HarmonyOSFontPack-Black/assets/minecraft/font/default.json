@@ -3,9 +3,10 @@
          {
              "type": "ttf",
              "file": "minecraft:harmonyos_black.ttf",
- 			"shift": [0, 0],
- 			"size": 11.0,
- 			"oversample": 8.0
+             "shift": [2, 0],
+             "size": 11.0,
+             "oversample": 8.0,
+             "skip":"（）"
          }
  	]
  }
