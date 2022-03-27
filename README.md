@@ -1,6 +1,6 @@
 # HarmonyOS Font Pack
 
-ZH-CN / EN
+ZH-CN / [EN](README-EN.md)
 
 本字体资源包使用的字体为 [HarmonyOS Sans SC](https://developer.harmonyos.com/en/docs/design/des-guides/font-0000001157868583) 
 
