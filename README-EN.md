@@ -19,10 +19,6 @@ Load this font texture pack in Settings> Resource Pack. If the font has not been
 please go to Settings> Language...> Force Unicode font: Off (Force Unicode Font: OFF) After closing, 
 the font will be changed to HarmonyOS Sans SC Font.
 
-## Recommended font resource pack 
-
-It is recommended to choose HarmonyOSFontPack-Bold or HarmonyOSFontPack-Black
-
 ## Known BUG
 
 See details: [issues#I4CPVM](https://gitee.com/TexTrue/HarmonyOSFontPack/issues/I4CPVM)

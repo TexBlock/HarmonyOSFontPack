@@ -16,11 +16,7 @@ ZH-CN / EN
 ## 使用方法
 
 在 设置 > 资源包 中加载此字体材质包，如果字体未被更改请在 设置 > 语言... > 强制使用Unicode字体：关 (Force Unicode Font: OFF) 
-关闭后字体就被改成 HarmonyOS Sans SC 的字体了
-
-## 字体包选择
-
-建议选择 HarmonyOSFontPack-Bold或HarmonyOSFontPack-Black 
+关闭后字体就被改成 HarmonyOS Sans SC 的字体。
 
 ## 已知BUG
 
